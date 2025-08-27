@@ -1,4 +1,4 @@
-package com.kuz.creating_and_starting_thread;
+package com.kuz.concurrency.creating_and_starting_thread;
 
 import java.util.stream.IntStream;
 
